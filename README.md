@@ -1,5 +1,7 @@
 Backbone test app
 =================
+for testing new developers
+
 
 Installing
 ==========
@@ -15,6 +17,6 @@ Installing
 
 Your tasks
 ==========
--- can be read on the default page --
+-- can be read on the html page after having started the static server --
 
 Submit the results by zipping and emailing to pppdns@gmail.com.
