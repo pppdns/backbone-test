@@ -1,0 +1,10 @@
+[{
+    "id": 1000001,
+    "name": "Test Company 1",
+    "description": "this is a test company that should be displayed"
+},
+{
+    "id": 1000002,
+    "name": "Test Company 2",
+    "description": "this is another test company that should be displayed as well"
+}]
