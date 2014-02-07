@@ -1,7 +1,10 @@
 {
   "name": "backbone-test",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "dependencies": {},
+  "authors": [
+    "Denes Papp <pppdns@gmail.com> (http://pappdenes.com)"
+  ],
   "devDependencies": {
     "grunt"                 : "~0.4.1",
     "grunt-contrib-copy"    : "~0.4.0",
