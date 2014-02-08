@@ -19,4 +19,4 @@ Your tasks
 ==========
 -- can be read on the html page after having started the static server --
 
-Submit the results by zipping and emailing to pppdns@gmail.com.
+Submit the results by zipping and emailing to pppdns[at]gmail[dot]com.
